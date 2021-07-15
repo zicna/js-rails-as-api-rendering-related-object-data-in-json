@@ -31,9 +31,7 @@ next step for bird watching might be some sort of location-based _bird sighting_
 system. A user of this site might one day be able to log the sighting of rare
 birds in their backyard.
 
-<p align="center">
-  <img width="500" src="https://curriculum-content.s3.amazonaws.com/js/rails-as-an-api/Image_16_BirdSighting.png">
-</p>
+![Bird Sighting](https://curriculum-content.s3.amazonaws.com/js/rails-as-an-api/Image_16_BirdSighting.png)
 
 The next resource to build, then, might be `Location` so we could connect
 specific birds to specific locations. To speed things up, let's use the `model`
